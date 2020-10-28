@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\Eth;
+namespace Eth;
 
 class Rpc
 {
